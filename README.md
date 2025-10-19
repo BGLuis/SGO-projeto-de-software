@@ -28,12 +28,33 @@ Atividade de criação de diagramas elaborada pelo professor [João Aramuni](htt
 
 # 🧾 Historias de usuario
 | ID | Titulo | Historia |
-|:---:|----|---|
+|:--:|----|---|
 |US01|Gerenciar Competições| Como um **Gerente do Sistema** (ou **Admin**), eu quero **cadastrar novas competições** e **consultar as competições existentes**, para que o **calendário de eventos seja organizado** e **acessível**, e eu **possa acompanhar as competições a serem agendadas**.|
 |US02|Gerenciar Locais de Competição	| Como um **Admin** (ou **Gerente do Sistema**), eu quero **alocar ou modificar os locais das competições**, para que **não ocorram conflitos de agendamento** e o **uso das instalações seja otimizado**.|
 |US03|Gerenciar Inscrições	| Como um **Oficial**, eu quero **realizar e consultar inscrições de atletas em competições**, e **também cancelá-las se necessário**, para que os **atletas estejam corretamente registrados para seus eventos** e a **participação possa ser gerenciada eficientemente**.|
 |US04|Registrar Resultados Pós-Competição	| Como um **Oficial**, eu quero **registrar os atletas que subiram ao pódio para cada competição concluída**, para que os **vencedores sejam oficializados e os dados para o quadro de medalhas sejam atualizados**.|
 |US05|Consultar Quadro de Medalhas	| Como um **Comitê Olímpico**, eu quero **gerar um relatório detalhado do quadro de medalhas**, para que eu **possa acompanhar o desempenho dos países e comunicar os resultados oficiais**.|
+
+## 🖼️ Diagramas
+Abaixo estão os diagramas do projeto. Clique nas imagens para abrir em tamanho real.
+
+<div align="center">
+  <p align="center">
+    <a href="imagens/caso-de-uso.png"><img src="imagens/caso-de-uso.png" alt="Diagrama 1" width="600"></a>
+  </p>
+  <p align="center">
+    <a href="imagens/componetes.png"><img src="imagens/componetes.png" alt="Diagrama 2" width="600"></a>
+  </p>
+  <p align="center">
+    <a href="imagens/diagrama-de-pacote.png"><img src="imagens/diagrama-de-pacote.png" alt="Diagrama 3" width="600"></a>
+  </p>
+    <p align="center">
+    <a href="imagens/implatação.png"><img src="imagens/implatação.png" alt="Diagrama 3" width="600"></a>
+  </p>
+</div>
+
+
+
 
 # 🤝 Contribuidores
  <a href = "https://github.com/bgluis/SGO-projeto-de-software/graphs/contributors">
