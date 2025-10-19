@@ -39,6 +39,9 @@ Atividade de criação de diagramas elaborada pelo professor [João Aramuni](htt
  <a href = "https://github.com/bgluis/SGO-projeto-de-software/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=bgluis/SGO-projeto-de-software"/>
  </a>
+ <a href = "https://github.com/bgluis/SGO-projeto-de-software/graphs/contributors">
+   <img src = "https://avatars.githubusercontent.com/u/170900906?v=4&size=64"/>
+ </a>
 
 
  <!-- Links -->
