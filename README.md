@@ -40,16 +40,16 @@ Abaixo estão os diagramas do projeto. Clique nas imagens para abrir em tamanho 
 
 <div align="center">
   <p align="center">
-    <a href="imagens/caso-de-uso.png"><img src="imagens/caso-de-uso.png" alt="Diagrama 1" width="600"></a>
+    <a href="imagens/caso-de-uso.png"><img src="imagens/caso-de-uso.png" alt="caso de uso" width="600"></a>
   </p>
   <p align="center">
-    <a href="imagens/componetes.png"><img src="imagens/componetes.png" alt="Diagrama 2" width="600"></a>
+    <a href="imagens/componetes.png"><img src="imagens/componetes.png" alt="componetes" width="600"></a>
   </p>
   <p align="center">
-    <a href="imagens/diagrama-de-pacote.png"><img src="imagens/diagrama-de-pacote.png" alt="Diagrama 3" width="600"></a>
+    <a href="imagens/diagrama-de-pacote.png"><img src="imagens/diagrama-de-pacote.png" alt="diagrama de pacote" width="600"></a>
   </p>
     <p align="center">
-    <a href="imagens/implatação.png"><img src="imagens/implatação.png" alt="Diagrama 3" width="600"></a>
+    <a href="imagens/implatação.png"><img src="imagens/implatação.png" alt="implatação" width="600"></a>
   </p>
 </div>
 
