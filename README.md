@@ -46,7 +46,7 @@ Abaixo estão os diagramas do projeto. Clique nas imagens para abrir em tamanho 
     <a href="imagens/componetes.png"><img src="imagens/componetes.png" alt="componetes" width="600"></a>
   </p>
   <p align="center">
-    <a href="imagens/diagrama-de-pacote.png"><img src="imagens/diagrama-de-pacote.png" alt="diagrama de pacote" width="600"></a>
+    <a href="imagens/diagrama-de-pacote-e-classes.png"><img src="imagens/diagrama-de-pacote-e-classes.png" alt="diagrama de pacote e classes" width="600"></a>
   </p>
     <p align="center">
     <a href="imagens/implatação.png"><img src="imagens/implatação.png" alt="implatação" width="600"></a>
