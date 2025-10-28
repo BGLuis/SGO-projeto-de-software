@@ -38,6 +38,13 @@ Atividade de criação de diagramas elaborada pelo professor [João Aramuni](htt
 ## 🖼️ Diagramas
 Abaixo estão os diagramas do projeto. Clique nas imagens para abrir em tamanho real.
 
+### Links
+- [Implatação e Componetes](https://www.figma.com/board/snrPLnnBBHywZP4J4TvTN7/SGO?node-id=4-896&p=f&t=Rkh6O0OEtDzsa7Hy-0)
+- [classes](https://www.figma.com/design/r0r2VMRZB495O8m2B2QKTp/SGO---Diagrama-de-Classes-e-Pacotes?node-id=22-1205&p=f&t=OyP2mzZr2j8hYxYm-0)
+- [Casos de uso](https://www.figma.com/board/hgws2E0fglme1UvMYGaejJ/SGO---Casos-de-Uso?node-id=0-1&p=f&t=ZTHfsPd7BjBtlxZ4-0)
+
+### Imagnes
+
 <div align="center">
   <p align="center">
     <a href="imagens/caso-de-uso.png"><img src="imagens/caso-de-uso.png" alt="caso de uso" width="600"></a>
